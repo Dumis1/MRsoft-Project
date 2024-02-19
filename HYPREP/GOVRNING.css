@@ -1,0 +1,67 @@
+header {
+    background-color: white;
+    padding: 3px;
+    display: flex;
+    margin: 15px;
+    justify-content: flex-start;
+    gap: 320px;
+    border-radius: 15px;
+}
+.header ul {
+    border-radius: 30px;
+    border: 2px solid yellow;
+}
+.header li {
+    padding: 8px;
+    margin: 3px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-style: bold;
+    background-color:yellow;
+    text-decoration: none;
+}
+.header h1 {
+    justify-content: center;
+    font-style: initial;
+    text-align:right;
+}
+.header li a{
+    color: black;
+    text-decoration: none;
+}
+.governing {
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(84, 84, 243);
+    border: 3px solid white;
+    border-radius: 20px;
+}
+.governing video{
+    border-radius: 25px;
+    border: 4px solid yellow;
+}
+.governing h3{
+    background-color: yellow;
+    padding: 3px;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: rgb(84, 84, 243);
+}
+.foot {
+    border-radius: 20px;
+    text-align: center;
+    padding: 55px;
+    background-color: white;
+}
+.foot img {
+    text-align: center;
+    border: 4px solid yellow;
+    border-radius: 65px;
+}
+.footer {
+    background-color: rgb(2, 2, 71);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+}
